@@ -1,0 +1,12 @@
+numpy
+pandas
+jupyter
+matplotlib
+seaborn
+pyasn
+pycountry_convert
+folium
+# ripe.atlas.cousteau
+# ripe.atlas.sagan
+# requests
+# sqlite3
